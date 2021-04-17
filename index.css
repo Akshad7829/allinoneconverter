@@ -1,0 +1,21 @@
+#vantajs {
+  width: auto;
+  height: 600px;
+  margin-bottom: 10px;
+  position: relative;
+}
+.title{
+  position: absolute;
+  color: white;
+  z-index: 1;
+}
+.card{
+  float: left;
+  margin-left: 10rem;
+
+  margin-top: 4rem;
+}
+.footer{
+margin-top: 40rem;
+text-align: center;
+}
