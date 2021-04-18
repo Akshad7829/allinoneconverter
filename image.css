@@ -6,6 +6,12 @@ float: left;
 .imagecard{
   align-items: center;
 margin-left: 35rem;
+
+}
+.title{
+  background-color: #EF820D;
+
+padding: 1%;
 }
 .from{
 margin-top: 10rem;
@@ -47,4 +53,28 @@ color: #FFD700;
   color: #FFD700;
   width:30%;
   height:280px;
+}
+.convert{
+  text-align: center;
+  font-weight: bold;
+
+}
+.pts{
+  text-align: center;
+  display: block;
+}
+.connect{
+  text-align: center;
+}
+.logo{
+  text-align: center;
+  display: block;
+
+}
+.con{
+  width: 2rem;
+  padding: 1% ;
+}
+.connectwhole{
+  background-color: #EF820D;
 }
