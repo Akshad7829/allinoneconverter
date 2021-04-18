@@ -26,3 +26,25 @@ margin-left: 20rem;
   font-size: 1.5rem;
   border-radius: 2rem;
 }
+.bulb{
+  width: 4rem;
+}
+.left{
+  margin-left: 9rem;
+  float:left; 
+color: #FFD700;
+  width:30%;
+  height:280px;
+}
+.middle{
+  float:left; 
+  color: #FFD700;
+  width:30%;
+  height:280px;
+}
+.right{
+  float:right;
+  color: #FFD700;
+  width:30%;
+  height:280px;
+}
